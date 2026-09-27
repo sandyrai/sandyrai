@@ -1,19 +1,40 @@
-👋 Hi, I'm Sandeep, a passionate software developer with 4 years of experience in the industry. My expertise lies in Java, Python, Spring Boot, AWS, Apache Kafka, and Microservices. I'm always eager to learn and expand my skillset, and I thrive in dynamic environments where I can make an impact.
+# Hi, I'm Sandeep Kumar 👋
 
-🔭 I'm currently exploring Spring Boot + Angular to broaden my knowledge and stay on top of the latest trends in the tech world.
+**Senior Backend Engineer** with 7+ years building scalable microservices, event-driven systems and cloud-native backends, now building **Generative AI & RAG** applications.
 
-💡 I enjoy collaborating with fellow developers and professionals in the industry to create innovative solutions and expand my professional network.
+- 🏗️ Designed backend systems across **Automotive, E-commerce and Banking** domains
+- ⚙️ Day to day: **Java, Spring Boot, Spring WebFlux, Apache Kafka, AWS**
+- 🤖 Currently building: LLM-powered apps with **Python, FastAPI, RAG and vector search**
+- 🎓 M.Tech, Software Systems (Data Analytics), BITS Pilani
+- 📫 Reach me: kmr.sandeep1997@gmail.com
 
-📚 When I'm not coding, I share my programming journey, tutorials, and insights on my website: https://www.beginnerspython.com/
+---
 
-📫 Feel free to reach out to me at kmr.sandeep1997@gmail.com if you'd like to connect, collaborate, or discuss new opportunities.
+### 🛠️ Tech Stack
 
+**Backend:** Java · Spring Boot · Spring WebFlux · Hibernate/JPA · Python · FastAPI
+**Messaging:** Apache Kafka · AWS SQS/SNS · Google Cloud Pub/Sub
+**Cloud:** AWS Lambda · S3 · DynamoDB · Glue · CloudWatch · Cognito · EKS
+**Data:** PostgreSQL · Oracle · MongoDB · DynamoDB · SQLite
+**GenAI:** LLMs · RAG · Sentence Transformers · Embeddings & Semantic Search · Ollama · OpenRouter
+**DevOps:** Jenkins · Git · CI/CD
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyrai&show_icons=true&theme=radical)
+---
 
+### 🚀 Featured Projects
 
+**DocLens: AI Document Analysis Engine (RAG)**
+Ask natural-language questions over PDFs, DOCX, CSV and images and get answers grounded in the document, with source and page citations.
+`Python` `FastAPI` `Sentence Transformers` `LLMs` `WebSockets` `SQLite` `Tesseract OCR`
+- Ingestion pipeline: text extraction with OCR fallback, sliding-window chunking, local embeddings, cosine-similarity retrieval
+- Provider-agnostic LLM layer (cloud via OpenRouter or local via Ollama) with token streaming
+- WebSocket gateway with API-key auth, heartbeat and graceful shutdown; rate limiting and semantic caching
 
-<!---
-sandyrai/sandyrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**DevOps Microservices Demo**
+Spring Boot microservices with a CI/CD pipeline. → [devops-microservices-demo](https://github.com/sandyrai/devops-microservices-demo)
+
+---
+
+### 💡 Areas of Interest
+
+Distributed systems · Event-driven architecture · Reactive programming · Agentic AI · Retrieval-Augmented Generation
